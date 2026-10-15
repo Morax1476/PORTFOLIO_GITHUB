@@ -1,0 +1,6 @@
+# Ignore local editor/OS clutter; the website and media remain trackable.
+.DS_Store
+Thumbs.db
+Desktop.ini
+.vscode/
+*.log
